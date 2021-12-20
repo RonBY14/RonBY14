@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  ✒️ I am a software developer who focuses on backend development and software architecture
+  ✒️ I am a software developer who specializes in backend development and software architecture
   <br>
-  👀 Interested in game development, data communication and software architecture
+  👀 Interested in software architecture, data communication, game development
+  <br>
+  🔎 Currently learning about microservices and software design
+  <br>
+  🔶 Want to start contributing and collaborating on open source projects and to improve in the field of software architecture
 </p>
