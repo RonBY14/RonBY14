@@ -2,6 +2,8 @@
   My name is Ron
 </p>
 
+---
+
 <p align="center">
   ✒️ I am a software developer who specializes in backend development and software architecture
   <br>
@@ -11,3 +13,5 @@
   <br>
   🔶 Want to start contributing and collaborating on open source projects and to improve in the field of software architecture
 </p>
+
+---
