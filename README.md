@@ -11,7 +11,7 @@
   <br>
   🔎 Currently learning about microservices and software design
   <br>
-  🔶 Want to start contributing and collaborating on open source projects and to improve in the field of software architecture
+  🔶 Want to start contributing and collaborating on open-source projects and to improve in the field of software architecture
 </p>
 
 ---
