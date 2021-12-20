@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ron
+- 👀 Interested in software architecture
+- 🌱 Currently learning microservices
