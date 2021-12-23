@@ -9,7 +9,7 @@
   <br>
   👀 Interested in software architecture, data communication, game development
   <br>
-  🔎 Currently learning software architecture and reading about microservices
+  🔎 Currently learning software architecture
   <br>
   🔶 Want to start contributing and collaborating on open-source projects and to improve in the field of software architecture
 </p>
