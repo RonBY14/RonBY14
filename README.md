@@ -7,7 +7,7 @@
 <p align="center">
   ✒️ I am a software developer who specializes in backend development and software architecture
   <br>
-  👀 Interested in software architecture, data communication, game development
+  👀 Interested in software architecture, data communication and game development
   <br>
   🔎 Currently learning software architecture
   <br>
