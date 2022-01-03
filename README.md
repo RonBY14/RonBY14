@@ -11,7 +11,7 @@
   <br>
   🔎 Currently learning software architecture
   <br>
-  🔶 Want to start contributing and collaborating on open-source projects, and improve in the field of software architecture
+  🔶 Want to start contributing and collaborating on open-source projects and improve in the field of software architecture
 </p>
 
 ---
